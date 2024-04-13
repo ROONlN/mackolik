@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u00FCseyin AYDIN\\source\\repos\\PG_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B6CD7-AA47-4CCA-8097-B9EEC1B73B14}|PG_Proje\\PG_Proje.vcxproj|C:\\Users\\H\u00FCseyin AYDIN\\source\\repos\\PG_Proje\\PG_Proje\\PG_Proje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B6B6CD7-AA47-4CCA-8097-B9EEC1B73B14}|PG_Proje\\PG_Proje.vcxproj|solutionrelative:PG_Proje\\PG_Proje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PG_Proje.cpp",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin AYDIN\\source\\repos\\PG_Proje\\PG_Proje\\PG_Proje.cpp",
+              "RelativeDocumentMoniker": "PG_Proje\\PG_Proje.cpp",
+              "ToolTip": "C:\\Users\\H\u00FCseyin AYDIN\\source\\repos\\PG_Proje\\PG_Proje\\PG_Proje.cpp",
+              "RelativeToolTip": "PG_Proje\\PG_Proje.cpp",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAAAAQCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-31T18:12:23.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

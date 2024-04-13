@@ -1,0 +1,4 @@
+﻿  PG_Proje.cpp
+C:\Users\Hüseyin AYDIN\source\repos\PG_Proje\PG_Proje\PG_Proje.cpp(195,34): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Hüseyin AYDIN\source\repos\PG_Proje\PG_Proje\PG_Proje.cpp(307,12): warning C4834: [[nodiscard]] özniteliğine sahip işlevin dönüş değerinin atılması
+  PG_Proje.vcxproj -> C:\Users\Hüseyin AYDIN\source\repos\PG_Proje\x64\Debug\PG_Proje.exe
